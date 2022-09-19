@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sort.Integer01&apos; to &apos;Demo1&apos;&#x0D;&#x0A;- Original project: &apos;Project01&apos;&#x0D;&#x0A;- Original element: &apos;sort.Integer01&apos;&#x0D;&#x0A;- Renamed element: &apos;sort.Demo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Integer01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sort{Integer01.java[Integer01" matchStrategy="1" name="Demo1" qualified="false" references="true" similarDeclarations="false" stamp="1542811760166" textual="false" version="1.0"/>
+</session>
